@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090928643829",
+    "firebase_url": "https://calendar-5bbc0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "calendar-5bbc0",
+    "storage_bucket": "calendar-5bbc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090928643829:android:3fdb99edb4cf9e4ba0bfbc",
+        "android_client_info": {
+          "package_name": "com.example.cale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090928643829-85hd073ted6ees1u3drdqksfkq7oqgl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiQEIq62rXI7pl8bKnUlJkWyz-SxFWGj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090928643829-85hd073ted6ees1u3drdqksfkq7oqgl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
